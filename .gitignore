@@ -1,0 +1,5 @@
+.idea/
+venv/
+
+.db
+allo_ua/__pycache__/
